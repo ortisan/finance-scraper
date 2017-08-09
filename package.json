@@ -15,6 +15,7 @@
   "author": "tentativafc",
   "license": "ISC",
   "dependencies": {
+    "fast-csv": "^2.4.0",
     "phantomjs": "^2.1.7",
     "request": "^2.81.0"
   }
