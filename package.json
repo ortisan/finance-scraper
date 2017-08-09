@@ -1,0 +1,21 @@
+{
+  "name": "finance-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Yahoo Finance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper",
+    "yahoo",
+    "finance"
+  ],
+  "author": "tentativafc",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs": "^2.1.7",
+    "request": "^2.81.0"
+  }
+}
